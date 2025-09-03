@@ -3,7 +3,7 @@ import Arkanoid.GameAssets.Game;
 /**
  * runs the Arkanoid game.
  */
-public class Ass5Game {
+public class Arkanoid {
     /**
      * runs the Arkanoid game by creating a new game object, initialize it and run the game through it.
      *

@@ -2,6 +2,9 @@
 
 A clean, object‑oriented Java implementation of **Arkanoid** with a twist: **blocks are removed only when the ball’s color is *different* from the block’s color.** On a hit, the ball adopts the block’s color, so you’ll need to **alternate colors** to clear the board.
 
+<p align="center">
+  <img width="596" height="451" alt="Screenshot 2025-09-03 214725" src="https://github.com/user-attachments/assets/329e1ca9-4a49-4074-a677-51793a7847d7" />
+</p>
 ---
 
 ## Gameplay
